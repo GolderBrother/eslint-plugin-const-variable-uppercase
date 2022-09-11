@@ -1,0 +1,12 @@
+{
+  "name": "eslint-plugin-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

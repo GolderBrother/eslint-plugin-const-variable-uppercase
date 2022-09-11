@@ -1,0 +1,15 @@
+
+{
+    "env": {
+      "browser": true,
+      "es2021": true
+    },
+    "plugins": ["const-variable-uppercase"],
+    "parserOptions": {
+      "ecmaVersion": "latest",
+      "sourceType": "module"
+    },
+    "rules": {
+      "const-variable-uppercase/constant-capitalization": "error"
+    }
+  }

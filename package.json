@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-const-variable-uppercase",
+  "version": "1.0.0",
+  "description": "eslint-plugin-const-variable-uppercase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GolderBrother/eslint-plugin-const-variable-uppercase.git"
+  },
+  "keywords": [
+    "eslint-plugin-const-variable-uppercase"
+  ],
+  "author": "james",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GolderBrother/eslint-plugin-const-variable-uppercase/issues"
+  },
+  "homepage": "https://github.com/GolderBrother/eslint-plugin-const-variable-uppercase#readme",
+  "dependencies": {
+    "eslint-plugin-const-variable-uppercase": "link:1.0.0"
+  }
+}
